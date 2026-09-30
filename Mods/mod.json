@@ -2,7 +2,7 @@
     "id":  "stellardrive-upgradetable",
     "name":  "Upgrade Table",
     "author":  "Krunk",
-    "version":  "0.1.1",
+    "version":  "0.1.2",
     "description":  "Adds an upgrade table with research for ore yield, mining speed, and laser range. Needs SDModKit.",
     "thumbnail": "utt.png",
     "images": ["uti.png"]
